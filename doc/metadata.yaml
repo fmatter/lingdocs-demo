@@ -1,0 +1,15 @@
+id: pylingdocs-demo
+version: 0.0.1.draft
+title: "Pylingdocs: A Demo"
+authors: 
+    - family-names: Matter
+      given-names: Florian
+      orcid: 0000-0002-2545-5154
+      email: fmatter@mailbox.org
+      affiliation: University of Oregon
+abstract: This is a short document demonstrating the capabilities (and limits?) of pylingdocs.
+keywords:
+- pylingdocs
+- cldf
+license: CC-BY-SA-4.0
+type: article

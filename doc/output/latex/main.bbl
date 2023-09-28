@@ -1,0 +1,172 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{alvarez1998split}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=76beb16213f83daeab27637c0756301c}{%
+           family={Álvarez},
+           familyi={Á\bibinitperiod},
+           given={José},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{76beb16213f83daeab27637c0756301c}
+      \strng{fullhash}{76beb16213f83daeab27637c0756301c}
+      \strng{bibnamehash}{76beb16213f83daeab27637c0756301c}
+      \strng{authorbibnamehash}{76beb16213f83daeab27637c0756301c}
+      \strng{authornamehash}{76beb16213f83daeab27637c0756301c}
+      \strng{authorfullhash}{76beb16213f83daeab27637c0756301c}
+      \field{sortinit}{Á}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Opción}
+      \field{number}{24}
+      \field{title}{Split Ergativity and Complementary Distribution of NP's and Pronominal Affixes in Pemón (Cariban).}
+      \field{volume}{13}
+      \field{year}{1997}
+      \field{pages}{69\bibrangedash 94}
+      \range{pages}{26}
+      \keyw{pemon,ergativity}
+    \endentry
+    \entry{koehn1986apalai}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=3e9c9e10fbee01949476e99b58ce9503}{%
+           family={Koehn},
+           familyi={K\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=e743d3a6a141d768b2b96ed6e0d14e32}{%
+           family={Koehn},
+           familyi={K\bibinitperiod},
+           given={Sally},
+           giveni={S\bibinitperiod},
+           givenun=1}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=471e5ea64777f0da122641cb46f2ca3f}{%
+           family={Derbyshire},
+           familyi={D\bibinitperiod},
+           given={Desmond\bibnamedelima C.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=2925d6199ca3c6f0b208850cac579716}{%
+           family={Pullum},
+           familyi={P\bibinitperiod},
+           given={Geoffrey\bibnamedelima K.},
+           giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin/New York}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{3e8f20ea65e4463e2554a42a4cc5eb0f}
+      \strng{fullhash}{3e8f20ea65e4463e2554a42a4cc5eb0f}
+      \strng{bibnamehash}{3e8f20ea65e4463e2554a42a4cc5eb0f}
+      \strng{authorbibnamehash}{3e8f20ea65e4463e2554a42a4cc5eb0f}
+      \strng{authornamehash}{3e8f20ea65e4463e2554a42a4cc5eb0f}
+      \strng{authorfullhash}{3e8f20ea65e4463e2554a42a4cc5eb0f}
+      \strng{editorbibnamehash}{231313ee88f4c3fbba7dfd6df562f966}
+      \strng{editornamehash}{231313ee88f4c3fbba7dfd6df562f966}
+      \strng{editorfullhash}{231313ee88f4c3fbba7dfd6df562f966}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Handbook of Amazonian Languages}
+      \field{title}{Apalai}
+      \field{volume}{1}
+      \field{year}{1986}
+      \field{pages}{33\bibrangedash 127}
+      \range{pages}{95}
+      \keyw{apalai,grammar}
+    \endentry
+    \entry{triomeira1999}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d480752e3ab8be2d90c8a0559714b8ca}{%
+           family={Meira},
+           familyi={M\bibinitperiod},
+           given={Sérgio},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Rice University}%
+      }
+      \strng{namehash}{d480752e3ab8be2d90c8a0559714b8ca}
+      \strng{fullhash}{d480752e3ab8be2d90c8a0559714b8ca}
+      \strng{bibnamehash}{d480752e3ab8be2d90c8a0559714b8ca}
+      \strng{authorbibnamehash}{d480752e3ab8be2d90c8a0559714b8ca}
+      \strng{authornamehash}{d480752e3ab8be2d90c8a0559714b8ca}
+      \strng{authorfullhash}{d480752e3ab8be2d90c8a0559714b8ca}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Tiriyó}
+      \field{type}{phdthesis}
+      \field{year}{1999}
+      \keyw{trio,grammar}
+    \endentry
+    \entry{wayanatavares2005}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=839d3aceaad0e9d3581544b3e2c63246}{%
+           family={Tavares},
+           familyi={T\bibinitperiod},
+           given={Petronila\bibnamedelimb da\bibnamedelima Silva},
+           giveni={P\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {University of Houston}%
+      }
+      \list{publisher}{1}{%
+        {UMI}%
+      }
+      \strng{namehash}{839d3aceaad0e9d3581544b3e2c63246}
+      \strng{fullhash}{839d3aceaad0e9d3581544b3e2c63246}
+      \strng{bibnamehash}{839d3aceaad0e9d3581544b3e2c63246}
+      \strng{authorbibnamehash}{839d3aceaad0e9d3581544b3e2c63246}
+      \strng{authornamehash}{839d3aceaad0e9d3581544b3e2c63246}
+      \strng{authorfullhash}{839d3aceaad0e9d3581544b3e2c63246}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A grammar of Wayana}
+      \field{type}{phdthesis}
+      \field{year}{2005}
+      \keyw{wayana,grammar}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

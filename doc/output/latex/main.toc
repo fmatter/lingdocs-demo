@@ -1,0 +1,9 @@
+\acswitchoff 
+\contentsline {section}{\numberline {1}Introduction }{1}{section.1}%
+\contentsline {section}{\numberline {2}Common markdown}{1}{section.2}%
+\contentsline {section}{\numberline {3}Pylingdocs markdown }{2}{section.3}%
+\contentsline {section}{\numberline {4}Other linguistic data }{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Native CLDF components}{3}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Non-native components}{3}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Interlinear examples}{3}{section.5}%
+\contentsline {section}{\numberline {6}Citing literature }{4}{section.6}%
