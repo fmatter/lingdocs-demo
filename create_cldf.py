@@ -69,8 +69,8 @@ with CLDFWriter(spec) as writer:
         for col in df.columns:  # apply mapped methods to dataframe
             if col in table_actions:  # Gloss
                 table_actions[col](df)  # splitcol(df, "Gloss", sep=" ")
-        local_table_files[str(tablename)] = df  # key "examples.csv" holds dataframe
-        if str(tablename) == "forms.csv":
+        local_table_files[str(tablename.name)] = df  # key "examples.csv" holds dataframe
+        if str(tablename.name) == "forms.csv":
             df["Parameter_ID"] = df["Parameter_ID"].apply(lambda x: ", ".join(x))
     for table in ldd_tables + pld_tables:  # morphs.csv
         if table["url"] in local_table_files:
