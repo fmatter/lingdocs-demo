@@ -45,12 +45,12 @@ A quote:
 
 # Pylingdocs markdown
 
-Apart from database references, discussed in
-<a href='#sec:sources'>6</a>, there are a number of
-`pylingdocs`-specific commands, all patterning like links:
+Apart from database references, discussed in [6](#sec:sources), there
+are a number of `pylingdocs`-specific commands, all patterning like
+links:
 
-- cross-references: <a href='#common-markdown'>2</a> or
-  <a href='#sec:intro'>1</a>, see corresponding `label` commands
+- cross-references: [2](#common-markdown) or [1](#sec:intro), see
+  corresponding `label` commands
 - example references:
   - single \[ex:ekiri-13\]
   - subexample \[ex:ekiri-10\]
@@ -58,8 +58,8 @@ Apart from database references, discussed in
   - or bare: \[ex:tri-1\]
 - glosses: ACC
 - todos: \[todo: we need to talk about this\]
-- tables (with automatically generated table labels like
-  <a href='#tab:consonants'>Table 3.1</a>):
+- tables (with automatically generated table labels like [Table
+  3.1](#tab:consonants)):
 
 |           | bilabial | alveolar | palatal | velar | glottal |
 |:----------|:---------|:---------|:--------|:------|:--------|
@@ -69,8 +69,8 @@ Apart from database references, discussed in
 | liquid    |          | /r /     |         |       |         |
 | glide     | /w /     |          | /y/     |       |         |
 
-- figures (with automatically generated table labels like
-  <a href='#fig:cognates'>Figure 3.1</a>):
+- figures (with automatically generated table labels like [Figure
+  3.1](#fig:cognates)):
 
 (Figure 3.1: figures/cognates.jpg)
 
@@ -197,5 +197,5 @@ zwöi
   Silva. 2005. A grammar of Wayana. UMI. (Doctoral dissertation).
 
 [^1]: And here is a (foot)note. You can use markdown in here: see
-    <a href='#sec:data'>4</a> for details about Apalaí *-se* ‘SUP’
-    ([Koehn and Koehn 1986](#source-koehn1986apalai): 77).
+    [4](#sec:data) for details about Apalaí *-se* ‘SUP’ ([Koehn and
+    Koehn 1986](#source-koehn1986apalai): 77).
