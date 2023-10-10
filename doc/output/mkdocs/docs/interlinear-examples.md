@@ -23,18 +23,19 @@
           <span class="obj">ɨ-wɨ-n</span>
           <span class="gls"><span class="gloss">1<span class="tooltiptext gloss-1" ></span></span><span class="gloss">poss<span class="tooltiptext gloss-poss" ></span></span>-machete-<span class="gloss">pert<span class="tooltiptext gloss-pert" ></span></span></span>
         </div>
-    <div class="ftr">‘“My machete is here.”’ (ikp-ekiri: 13) </div>
+    <div class="ftr">‘“My machete is here.”’ (ikp-ekiri) </div>
   </div>
 </li>
 </ol>
 
 
 
+
 <ol class="example">
-    <li class="example" id="">
+    <li class="example" id="machete">
     <div class="preamble"> Ikpeng </div>
         <ol class="subexample">
-                    <li class=subexample id ="ekiri-9">
+                    <li class=subexample id ="machete">
   <div class="interlinear-wrapper">
     <div class="preamble">   </div>
         <div class="text">otumunto mun eto ïwïn otumunto</div>
@@ -58,10 +59,10 @@
           <span class="obj">otumunto</span>
           <span class="gls">where</span>
         </div>
-    <div class="ftr">‘“Where might my machete be, where?”’ (ikp-ekiri: 9) </div>
+    <div class="ftr">‘“Where might my machete be, where?”’ (ikp-ekiri) </div>
   </div>
 </li>
-                    <li class=subexample id ="ekiri-10">
+                    <li class=subexample id ="machete">
   <div class="interlinear-wrapper">
     <div class="preamble">   </div>
         <div class="text">nento nento yengli ïwïn</div>
@@ -81,7 +82,7 @@
           <span class="obj">ɨ-wɨ-n</span>
           <span class="gls"><span class="gloss">1<span class="tooltiptext gloss-1" ></span></span><span class="gloss">poss<span class="tooltiptext gloss-poss" ></span></span>-machete-<span class="gloss">pert<span class="tooltiptext gloss-pert" ></span></span></span>
         </div>
-    <div class="ftr">‘“Here, here I put my machete.”’ (ikp-ekiri: 10) </div>
+    <div class="ftr">‘“Here, here I put my machete.”’ (ikp-ekiri) </div>
   </div>
 </li>
         </ol>
@@ -112,10 +113,11 @@
           <span class="obj">wïraapa</span>
           <span class="gls">bow</span>
         </div>
-    <div class="ftr">‘The bow was stronger than the tapir.’ (<a href='/references/#source-triomeira1999'>Meira 1999</a>: 420) </div>
+    <div class="ftr">‘The bow was stronger than the tapir.’ (<a href='site:references/#source-triomeira1999'>Meira 1999</a>: 420) </div>
   </div>
 </li>
 </ol>
+
 
 
 
@@ -140,10 +142,11 @@
           <span class="obj">wïraapa</span>
           <span class="gls">bow</span>
         </div>
-    <div class="ftr">‘The bow was stronger than the tapir.’ (<a href='/references/#source-triomeira1999'>Meira 1999</a>: 420) </div>
+    <div class="ftr">‘The bow was stronger than the tapir.’ (<a href='site:references/#source-triomeira1999'>Meira 1999</a>: 420) </div>
   </div>
 </li>
 </ol>
+
 
 
 
@@ -168,17 +171,18 @@
           <span class="obj">wïraapa</span>
           <span class="gls">bow</span>
         </div>
-    <div class="ftr">‘The bow was stronger than the tapir.’ (<a href='/references/#source-triomeira1999'>Meira 1999</a>: 420) </div>
+    <div class="ftr">‘The bow was stronger than the tapir.’ (<a href='site:references/#source-triomeira1999'>Meira 1999</a>: 420) </div>
   </div>
 </li>
 </ol>
 
 
 
+
 <ol class="example">
 <li class=example id ="tri-1">
   <div class="interlinear-wrapper">
-    <div class="preamble"> Tiriyó (<a href='/references/#source-triomeira1999'>Meira 1999</a>: 420) </div>
+    <div class="preamble"> Tiriyó (<a href='site:references/#source-triomeira1999'>Meira 1999</a>: 420) </div>
         <div class="text">pai iwae teese wïraapa</div>
         <div class="interlinear">
           <span class="obj">pai</span>
@@ -200,6 +204,7 @@
   </div>
 </li>
 </ol>
+
 
 
 
@@ -229,3 +234,18 @@
 </li>
 </ol>
 
+
+
+## Manual examples
+
+Sometimes you want a non-interlinear example, maybe with a form, or a simple list, or a table.
+
+<ol markdown="block" class="example">
+<li class="example" markdown="block" id="manex1"><div markdown="block">eis</div>
+</li>
+</ol>
+
+<ol markdown="block" class="example">
+<li class="example" markdown="block" id="manex2"><div markdown="block">zwöi</div>
+</li>
+</ol>

@@ -1,0 +1,11 @@
+nav:
+  - Home: index.md
+  - Description:
+    - 'sec:intro.md'
+    - 'common-markdown.md'
+    - 'pld-md.md'
+    - 'sec:data.md'
+    - 'interlinear-examples.md'
+    - 'sec:sources.md'
+    - 'references.md'
+collapse_single_pages: true

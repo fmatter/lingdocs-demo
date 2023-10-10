@@ -1,0 +1,15 @@
+* <a href='/data/examples/ekiri-1'>ekïrï ru man eroang tïmamin ïna</a>
+* <a href='/data/examples/ekiri-2'>yuwyang man tïwïn:</a>
+* <a href='/data/examples/ekiri-3'>ïwïn mun eto ankang man</a>
+* <a href='/data/examples/ekiri-4'>rïk rïk rïk yuwitkang man</a>
+* <a href='/data/examples/ekiri-5'>patxang orotpotang man owro waraktxi</a>
+* <a href='/data/examples/ekiri-6'>meneng payng ïwïn</a>
+* <a href='/data/examples/ekiri-7'>ankang man tïmuye na</a>
+* <a href='/data/examples/ekiri-8'>yaptakgwam txutkerem yuwïn</a>
+* <a href='/data/examples/ekiri-9'>otumunto mun eto ïwïn otumunto</a>
+* <a href='/data/examples/ekiri-10'>nento nento yengli ïwïn</a>
+* <a href='/data/examples/ekiri-11'>ankang man imun:</a>
+* <a href='/data/examples/ekiri-12'>pupa muntu mun, waptakgwam keni owïn</a>
+* <a href='/data/examples/ekiri-13'>nen tan nen ïwïn.</a>
+* <a href='/data/examples/ekiri-14'>tïmongmo arawïremkom ankangtom man imun emtxin emuye keni ningkïn emnoptowoge: Kïkïkï ankangtom man.</a>
+* <a href='/data/examples/tri-1'>pai iwae teese wïraapa</a>

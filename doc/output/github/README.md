@@ -10,6 +10,7 @@
     1.  [Native CLDF components](#native-cldf-components)
     2.  [Non-native components](#non-native-components)
 5.  [Interlinear examples](#interlinear-examples)
+    1.  [Manual examples](#manual-examples)
 6.  [Citing literature
     <a id>=‘sec:sources’\><a/>](#citing-literature-a-id-sec-sources-a)
 7.  [References](#references)
@@ -58,7 +59,7 @@ Apart from database references, discussed in
     -   single \[ex:ekiri-13\]
     -   subexample \[ex:ekiri-10\]
     -   range: \[ex:ekiri-13–ekiri-11\]
-    -   or bare: \[ex:ekiri-11\]
+    -   or bare: \[ex:tri-1\]
 -   glosses: ACC
 -   todos: \[todo: we need to talk about this\]
 -   tables (with automatically generated table labels like \[Table\]):
@@ -74,7 +75,7 @@ Apart from database references, discussed in
 -   figures (with automatically generated table labels like
     <a href='#fig:cognates'>click</a>):
 
-\[Cognate identification strategy: cognates.jpg\]
+(Figure 3.1: cognates.jpg)
 
 # Other linguistic data <a id>=‘sec:data’\><a/>
 
@@ -106,12 +107,14 @@ shared by Apalaí, Tiriyó, and Wayana.
 
 # Interlinear examples
 
-(ekiri-13)  
-nen        tan   nen        ɨ-wɨ-n  
-INAN.PROX  here  INAN.PROX  1POSS-machete-PERT  
-‘“My machete is here.”’
+1)  (ekiri-13)  
+    nen        tan   nen        ɨ-wɨ-n  
+    INAN.PROX  here  INAN.PROX  1POSS-machete-PERT  
+    ‘“My machete is here.”’
 
-()
+2)  
+
+<!-- -->
 
 1)  Ikpeng (ekiri-9)  
     otumunto  mun        eto     ɨ-wɨ-n              otumunto  
@@ -123,30 +126,45 @@ INAN.PROX  here  INAN.PROX  1POSS-machete-PERT
     INAN.PROX-LOC  INAN.PROX-LOC  1\>3-put-HOD  1POSS-machete-PERT  
     ‘“Here, here I put my machete.”’
 
-(tri-1)  
-pai    i-wae    t-ee-se        wïraapa  
-tapir  3-super  NPST-COP-NPST  bow  
-‘The bow was stronger than the tapir.’
+<!-- -->
 
-(tri-1)  
-pai    i-wae    t-ee-se        wïraapa  
-tapir  3-super  NPST-COP-NPST  bow  
-‘The bow was stronger than the tapir.’
+3)  (tri-1)  
+    pai    i-wae    t-ee-se        wïraapa  
+    tapir  3-super  NPST-COP-NPST  bow  
+    ‘The bow was stronger than the tapir.’
 
-(tri-1)  
-pai    i-wae    t-ee-se        wïraapa  
-tapir  3-super  NPST-COP-NPST  bow  
-‘The bow was stronger than the tapir.’
+4)  (tri-1)  
+    pai    i-wae    t-ee-se        wïraapa  
+    tapir  3-super  NPST-COP-NPST  bow  
+    ‘The bow was stronger than the tapir.’
 
-(tri-1)  
-pai    i-wae    t-ee-se        wïraapa  
-tapir  3-super  NPST-COP-NPST  bow  
-‘The bow was stronger than the tapir.’
+5)  (tri-1)  
+    pai    i-wae    t-ee-se        wïraapa  
+    tapir  3-super  NPST-COP-NPST  bow  
+    ‘The bow was stronger than the tapir.’
 
-(tri-1)  
-pai    i-wae    t-ee-se        wïraapa  
-tapir  3-super  NPST-COP-NPST  bow  
-‘The bow was stronger than the tapir.’
+6)  (tri-1)  
+    pai    i-wae    t-ee-se        wïraapa  
+    tapir  3-super  NPST-COP-NPST  bow  
+    ‘The bow was stronger than the tapir.’
+
+7)  (tri-1)  
+    pai    i-wae    t-ee-se        wïraapa  
+    tapir  3-super  NPST-COP-NPST  bow  
+    ‘The bow was stronger than the tapir.’
+
+## Manual examples
+
+Sometimes you want a non-interlinear example, maybe with a form, or a
+simple list, or a table.
+
+8)  
+
+eis
+
+9)  
+
+zwöi
 
 # Citing literature <a id>=‘sec:sources’\><a/>
 

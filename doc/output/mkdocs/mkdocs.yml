@@ -5,22 +5,25 @@ theme:
   icon:
     logo: octicons/book-24
   features:
-    - navigation.instant
+    - navigation.path
     - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
     - toc.follow
     - toc.integrate
   palette:     
     # Palette toggle for light mode
     - scheme: default
-      primary: green
-      accent: orange
+      primary: None
+      accent: None
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
     # Palette toggle for dark mode
     - scheme: slate
-      primary: deep purple
-      accent: orange
+      primary: None
+      accent: None
       toggle:
         icon: material/brightness-4
         name: Switch to light markdown_extensions
@@ -28,18 +31,24 @@ markdown_extensions:
   - toc:
       baselevel: 1
   - attr_list
+  - pymdownx.tabbed:
+      alternate_style: true
   # - tables
   # - md_in_html
 plugins:
+    - awesome-pages
     - enumerate-headings:
         toc_depth: 6
         include:
           - "*"
         exclude:
+          - index.md
           - references.md
           - data/index.md
+          - data/*
     - search
-    - git-revision-date-localized
+    # - git-revision-date-localized
+    - site-urls
 extra_css:
   - assets/examples.css
   - assets/alignment.css
@@ -53,21 +62,5 @@ extra_javascript:
   - assets/glossing_abbrevs.js
   - assets/glossing.js
   - assets/run.js
-nav:
-  
-  - 'sec:intro.md'
-  
-  - 'common-markdown.md'
-  
-  - 'pld-md.md'
-  
-  - 'sec:data.md'
-  
-  - 'interlinear-examples.md'
-  
-  - 'sec:sources.md'
-  
-  - 'references.md'
-  - 'data/index.md'
-repo_url: https://github.com/caribank/yawarana-sketch
+repo_url: https://github.com/fmatter/pylingdocs-demo
 repo_name: Source (GitHub)

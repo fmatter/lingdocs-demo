@@ -23,7 +23,7 @@ A quote:
 
 > Locating an individual language on a given point of the ergativity-nominativity axis and the diachronic interpretation of this axis seem to be conceptually different concerns, even if we were to assume that there are principies favouring one direction over the other. ([alvarez1998split](sources.bib?with_internal_ref_link&ref#cldf:alvarez1998split): 71)
 
-[^3]: And here is a (foot)note. You can use markdown in here: see [crossref](chapters.csv?_anchor=sec:data&label=Other linguistic data#cldf:sec:data) for details about [Morpheme apa-se](morphemes.csv?#cldf:apa-se).
+[^3]: And here is a (foot)note. You can use markdown in here: see [crossref](chapters.csv?_anchor=sec:data&label=Other linguistic data#cldf:sec:data) for details about [Morpheme apa-se](morphemes.csv?table=morphemes#cldf:apa-se).
 ",2
 pld-md,Pylingdocs markdown,"
 Apart from database references, discussed in [crossref](chapters.csv?_anchor=sec:sources&label=Citing literature#cldf:sec:sources), there are a number of `pylingdocs`-specific commands, all patterning like links:
@@ -33,7 +33,7 @@ Apart from database references, discussed in [crossref](chapters.csv?_anchor=sec
     * single <a class=""exref"" example_id=""ekiri-13""></a>
     * subexample <a class=""exref"" example_id=""ekiri-10""></a>
     * range: <a class=""exref"" example_id=""ekiri-13""end=""ekiri-11"" ></a>
-    * or bare: <a class=""exref"" example_id=""ekiri-11""></a>
+    * or bare: <a class=""exref"" example_id=""tri-1""></a>
 * glosses: <span class='smallcaps'>acc</span>
 * todos: <span title='we need to talk about this'>❗️</span>
 * tables (with automatically generated table labels like <a href='#tab:consonants' class='crossref' name='tab:consonants' >ref</a>):
@@ -59,37 +59,51 @@ Apart from database references, discussed in [crossref](chapters.csv?_anchor=sec
 sec-data,Other linguistic data,"
 ## Native CLDF components
 
-* forms: [Form tri-house](FormTable?#cldf:tri-house)
-* languages: [Language hix](LanguageTable?#cldf:hix)
+* forms: [Form tri-house](FormTable?table=forms#cldf:tri-house)
+* languages: [Language hix](LanguageTable?table=languages#cldf:hix)
 * cognate sets:
 
-[Cognate set louse-1](CognatesetTable?#cldf:louse-1)
+[Cognate set louse-1](CognatesetTable?table=cognate sets#cldf:louse-1)
 
 ## Non-native components
 
-[Morph tri-se-3](morphs.csv?#cldf:tri-se-3) is a variant of [Morpheme tri-se](morphemes.csv?with_translation=False#cldf:tri-se).
-Neither occur on [Wordform tri-fire](wordforms.csv?#cldf:tri-fire), because it is a noun.
-They are related to [Morpheme apa-se,way-se](morphemes.csv?with_translation=False&ids=apa-se,way-se#cldf:__all__).
-This is thus a cognate set shared by [Language apa,way,tri](LanguageTable?ids=apa,way,tri#cldf:__all__).
+[Morph tri-se-3](morphs.csv?table=morphs#cldf:tri-se-3) is a variant of [Morpheme tri-se](morphemes.csv?table=morphemes&with_translation=False#cldf:tri-se).
+Neither occur on [Wordform tri-fire](wordforms.csv?table=wordforms#cldf:tri-fire), because it is a noun.
+They are related to [Morpheme apa-se,way-se](morphemes.csv?table=morphemes&with_translation=False&ids=apa-se,way-se#cldf:__all__).
+This is thus a cognate set shared by [Language apa,way,tri](LanguageTable?table=languages&ids=apa,way,tri#cldf:__all__).
 
-* If [Wordform tri-kure](wordforms.csv?#cldf:tri-kure) has too long a translation, try [Wordform tri-kure](wordforms.csv?translation=good#cldf:tri-kure).
+* If [Wordform tri-kure](wordforms.csv?table=wordforms#cldf:tri-kure) has too long a translation, try [Wordform tri-kure](wordforms.csv?table=wordforms&translation=good#cldf:tri-kure).
 
-* This dataset contains the [Language ikp](LanguageTable?#cldf:ikp) text [Text ikp-ekiri](texts.csv?#cldf:ikp-ekiri).
+* This dataset contains the [Language ikp](LanguageTable?table=languages#cldf:ikp) text [Text ikp-ekiri](texts.csv?table=texts#cldf:ikp-ekiri).
 ",4
 interlinear-examples,Interlinear examples,"
-[Example ekiri-13](ExampleTable?example_counter=1#cldf:ekiri-13)
+[Example ekiri-13](ExampleTable?table=examples#cldf:ekiri-13)
 
-[Example ekiri-9,ekiri-10](ExampleTable?ids=ekiri-9,ekiri-10&example_counter=2#cldf:__all__)
+[Example ekiri-9,ekiri-10](ExampleTable?table=examples&example_id=machete&ids=ekiri-9,ekiri-10#cldf:__all__)
 
-[Example tri-1](ExampleTable?example_counter=3#cldf:tri-1)
+[Example tri-1](ExampleTable?table=examples#cldf:tri-1)
 
-[Example tri-1](ExampleTable?with_language=false&example_counter=4#cldf:tri-1)
+[Example tri-1](ExampleTable?table=examples&with_language=false#cldf:tri-1)
 
-[Example tri-1](ExampleTable?with_primaryText=false&example_counter=5#cldf:tri-1)
+[Example tri-1](ExampleTable?table=examples&with_primaryText=false#cldf:tri-1)
 
-[Example tri-1](ExampleTable?src_pos=in_preamble&comment=metaphorically&example_counter=6#cldf:tri-1)
+[Example tri-1](ExampleTable?table=examples&src_pos=in_preamble&comment=metaphorically#cldf:tri-1)
 
-[Example tri-1](ExampleTable?source=Sérgio Meira, p.c.&example_counter=7#cldf:tri-1)
+[Example tri-1](ExampleTable?table=examples&source=Sérgio Meira, p.c.#cldf:tri-1)
+
+## Manual examples
+
+Sometimes you want a non-interlinear example, maybe with a form, or a simple list, or a table.
+
+<ol markdown=""block"" class=""example"">
+<li class=""example"" markdown=""block"" id=""manex1""><div markdown=""block"">eis</div>
+</li>
+</ol>
+
+<ol markdown=""block"" class=""example"">
+<li class=""example"" markdown=""block"" id=""manex2""><div markdown=""block"">zwöi</div>
+</li>
+</ol>
 ",5
 sec-sources,Citing literature,"
 * see [alvarez1998split](sources.bib?with_internal_ref_link&ref#cldf:alvarez1998split) or [alvarez1998split](sources.bib?with_internal_ref_link&ref#cldf:alvarez1998split): 133-134

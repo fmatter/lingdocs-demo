@@ -30,7 +30,7 @@ Apart from database references, discussed in [ref](sec:sources), there are a num
     * single [exref](ekiri-13)
     * subexample [exref](ekiri-10)
     * range: [exref](ekiri-13?end=ekiri-11)
-    * or bare: [exref](ekiri-11?bare)
+    * or bare: [exref](tri-1?bare)
 * glosses: [gl](acc)
 * todos: [todo](we need to talk about this)
 * tables (with automatically generated table labels like [ref](tab:consonants)):

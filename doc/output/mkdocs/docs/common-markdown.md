@@ -18,6 +18,6 @@ and of course here is
 
 A quote:
 
-> Locating an individual language on a given point of the ergativity-nominativity axis and the diachronic interpretation of this axis seem to be conceptually different concerns, even if we were to assume that there are principies favouring one direction over the other. ([Álvarez 1997](/references/#source-alvarez1998split): 71)
+> Locating an individual language on a given point of the ergativity-nominativity axis and the diachronic interpretation of this axis seem to be conceptually different concerns, even if we were to assume that there are principies favouring one direction over the other. ([Álvarez 1997](site:references/#source-alvarez1998split): 71)
 
-[^3]: And here is a (foot)note. You can use markdown in here: see <a href='#sec:data' class='crossref' name='sec:data' >ref</a> for details about Apalaí [-se](/data/morphemes/apa-se) ‘<span class="gloss">sup<span class="tooltiptext gloss-sup" ></span></span>’ ([Koehn and Koehn 1986](/references/#source-koehn1986apalai): 77).
+[^3]: And here is a (foot)note. You can use markdown in here: see [4](site:/sec:data#sec:data) for details about Apalaí <i>-se</i> ‘<span class="gloss">sup<span class="tooltiptext gloss-sup" ></span></span>’ ([Koehn and Koehn 1986](site:references/#source-koehn1986apalai): 77).

@@ -1,1 +1,4 @@
-This is a short document demonstrating the capabilities (and limits?) of pylingdocs.
+---
+hide:
+  - navigation
+---
