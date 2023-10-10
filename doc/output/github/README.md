@@ -1,21 +1,17 @@
 # Pylingdocs: A Demo
 
-1.  [Introduction
-    <a id>=‘sec:intro’\><a/>](#introduction-a-id-sec-intro-a)
+1.  [Introduction](#introduction)
 2.  [Common markdown](#common-markdown)
-3.  [Pylingdocs markdown
-    <a id>=‘pld-md’\><a/>](#pylingdocs-markdown-a-id-pld-md-a)
-4.  [Other linguistic data
-    <a id>=‘sec:data’\><a/>](#other-linguistic-data-a-id-sec-data-a)
+3.  [Pylingdocs markdown](#pylingdocs-markdown)
+4.  [Other linguistic data](#other-linguistic-data)
     1.  [Native CLDF components](#native-cldf-components)
     2.  [Non-native components](#non-native-components)
 5.  [Interlinear examples](#interlinear-examples)
     1.  [Manual examples](#manual-examples)
-6.  [Citing literature
-    <a id>=‘sec:sources’\><a/>](#citing-literature-a-id-sec-sources-a)
+6.  [Citing literature](#citing-literature)
 7.  [References](#references)
 
-# Introduction <a id>=‘sec:intro’\><a/>
+# Introduction
 
 This document does double service as a test for `pylingdocs` and a
 showcase of its capabilities. It aims to demonstrate every feature and
@@ -35,9 +31,9 @@ is some **bold** and *italic* and ***bold italic*** text.
 
 and of course here is
 
--   one
--   with
--   bullet points[^1]
+- one
+- with
+- bullet points[^1]
 
 A quote:
 
@@ -47,22 +43,22 @@ A quote:
 > assume that there are principies favouring one direction over the
 > other. ([Álvarez 1997](#source-alvarez1998split): 71)
 
-# Pylingdocs markdown <a id>=‘pld-md’\><a/>
+# Pylingdocs markdown
 
 Apart from database references, discussed in
 <a href='#sec:sources'>click</a>, there are a number of
 `pylingdocs`-specific commands, all patterning like links:
 
--   cross-references: <a href='#common-markdown'>click</a> or
-    <a href='#sec:intro'>click</a>, see corresponding `label` commands
--   example references:
-    -   single \[ex:ekiri-13\]
-    -   subexample \[ex:ekiri-10\]
-    -   range: \[ex:ekiri-13–ekiri-11\]
-    -   or bare: \[ex:tri-1\]
--   glosses: ACC
--   todos: \[todo: we need to talk about this\]
--   tables (with automatically generated table labels like \[Table\]):
+- cross-references: <a href='#common-markdown'>click</a> or
+  <a href='#sec:intro'>click</a>, see corresponding `label` commands
+- example references:
+  - single \[ex:ekiri-13\]
+  - subexample \[ex:ekiri-10\]
+  - range: \[ex:ekiri-13–ekiri-11\]
+  - or bare: \[ex:tri-1\]
+- glosses: ACC
+- todos: \[todo: we need to talk about this\]
+- tables (with automatically generated table labels like \[Table\]):
 
 |           | bilabial | alveolar | palatal | velar | glottal |
 |:----------|:---------|:---------|:--------|:------|:--------|
@@ -72,19 +68,19 @@ Apart from database references, discussed in
 | liquid    |          | /r /     |         |       |         |
 | glide     | /w /     |          | /y/     |       |         |
 
--   figures (with automatically generated table labels like
-    <a href='#fig:cognates'>click</a>):
+- figures (with automatically generated table labels like
+  <a href='#fig:cognates'>click</a>):
 
-(Figure 3.1: cognates.jpg)
+(Figure 3.1: figures/cognates.jpg)
 
-# Other linguistic data <a id>=‘sec:data’\><a/>
+# Other linguistic data
 
 ## Native CLDF components
 
--   forms: Tiriyó pakoro se wae ‘I want a house’ ([Meira
-    1999](#source-triomeira1999): 417)
--   languages: Hixkaryána
--   cognate sets:
+- forms: Tiriyó pakoro se wae ‘I want a house’ ([Meira
+  1999](#source-triomeira1999): 417)
+- languages: Hixkaryána
+- cognate sets:
 
 None
 
@@ -99,11 +95,11 @@ related to Apalaí *-se* ([Koehn and Koehn
 2005](#source-wayanatavares2005): 236). This is thus a cognate set
 shared by Apalaí, Tiriyó, and Wayana.
 
--   If Tiriyó *kure* ‘good / pretty / well’ ([Meira
-    1999](#source-triomeira1999): 345) has too long a translation, try
-    Tiriyó *kure* ‘good’ ([Meira 1999](#source-triomeira1999): 345).
+- If Tiriyó *kure* ‘good / pretty / well’ ([Meira
+  1999](#source-triomeira1999): 345) has too long a translation, try
+  Tiriyó *kure* ‘good’ ([Meira 1999](#source-triomeira1999): 345).
 
--   This dataset contains the Ikpeng text The old man.
+- This dataset contains the Ikpeng text The old man.
 
 # Interlinear examples
 
@@ -166,38 +162,38 @@ eis
 
 zwöi
 
-# Citing literature <a id>=‘sec:sources’\><a/>
+# Citing literature
 
--   see [Álvarez 1997](#source-alvarez1998split) or [Álvarez
-    1997](#source-alvarez1998split): 133-134
--   with parentheses:
-    -   “Locating an individual language on a given point of the
-        ergativity-nominativity axis and the diachronic interpretation
-        of this axis seem to be conceptually different concerns”
-        ([Álvarez 1997](#source-alvarez1998split))
-    -   “Locating an individual language on a given point of the
-        ergativity-nominativity axis and the diachronic interpretation
-        of this axis seem to be conceptually different concerns”
-        ([Álvarez 1997](#source-alvarez1998split): 71)
--   multiple citations:
-    -   [Álvarez 1997](#source-alvarez1998split): 133-134, [Meira
-        1999](#source-triomeira1999): 218
-    -   ([Álvarez 1997](#source-alvarez1998split): 133-134, [Meira
-        1999](#source-triomeira1999): 218)
+- see [Álvarez 1997](#source-alvarez1998split) or [Álvarez
+  1997](#source-alvarez1998split): 133-134
+- with parentheses:
+  - “Locating an individual language on a given point of the
+    ergativity-nominativity axis and the diachronic interpretation of
+    this axis seem to be conceptually different concerns” ([Álvarez
+    1997](#source-alvarez1998split))
+  - “Locating an individual language on a given point of the
+    ergativity-nominativity axis and the diachronic interpretation of
+    this axis seem to be conceptually different concerns” ([Álvarez
+    1997](#source-alvarez1998split): 71)
+- multiple citations:
+  - [Álvarez 1997](#source-alvarez1998split): 133-134, [Meira
+    1999](#source-triomeira1999): 218
+  - ([Álvarez 1997](#source-alvarez1998split): 133-134, [Meira
+    1999](#source-triomeira1999): 218)
 
 # References
 
--   <a id="source-alvarez1998split"> </a>Álvarez, José. 1997. Split
-    Ergativity and Complementary Distribution of NP’s and Pronominal
-    Affixes in Pemón (Cariban). Opción 13. 69–94.
--   <a id="source-koehn1986apalai"> </a>Koehn, Edward and Koehn,
-    Sally. 1986. Apalai. In Derbyshire, Desmond C. and Pullum,
-    Geoffrey K. (eds.), Handbook of Amazonian Languages, 33–127.
-    Berlin/New York: Mouton de Gruyter.
--   <a id="source-triomeira1999"> </a>Meira, Sérgio. 1999. A Grammar of
-    Tiriyó. (Doctoral dissertation).
--   <a id="source-wayanatavares2005"> </a>Tavares, Petronila da
-    Silva. 2005. A grammar of Wayana. UMI. (Doctoral dissertation).
+- <a id="source-alvarez1998split"> </a>Álvarez, José. 1997. Split
+  Ergativity and Complementary Distribution of NP’s and Pronominal
+  Affixes in Pemón (Cariban). Opción 13. 69–94.
+- <a id="source-koehn1986apalai"> </a>Koehn, Edward and Koehn,
+  Sally. 1986. Apalai. In Derbyshire, Desmond C. and Pullum, Geoffrey K.
+  (eds.), Handbook of Amazonian Languages, 33–127. Berlin/New York:
+  Mouton de Gruyter.
+- <a id="source-triomeira1999"> </a>Meira, Sérgio. 1999. A Grammar of
+  Tiriyó. (Doctoral dissertation).
+- <a id="source-wayanatavares2005"> </a>Tavares, Petronila da
+  Silva. 2005. A grammar of Wayana. UMI. (Doctoral dissertation).
 
 [^1]: And here is a (foot)note. You can use markdown in here: see
     <a href='#sec:data'>click</a> for details about Apalaí *-se* ‘SUP’
